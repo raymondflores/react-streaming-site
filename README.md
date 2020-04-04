@@ -7,4 +7,4 @@ To run this project:
 3. Go into `client` and run `npm install && npm start`
 
 
-*this is not connected to a actual db*
+*this is not connected to an actual db*
